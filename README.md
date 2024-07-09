@@ -7,7 +7,7 @@ A script to automate getting test coins from Sepolia faucets and transferring th
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/web3_testnet.git
+    git clone https://github.com/nectariferous/web3_testnet.git
     cd web3_testnet
     ```
 
